@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ayushman Bharat",
+    "criteria": {
+      "bpl": true
+    },
+    "description": "Free healthcare for BPL families.",
+    "link": "https://mera.pmjay.gov.in"
+  },
+  {
+    "name": "PM Kisan Yojana",
+    "criteria": {
+      "farmer": true
+    },
+    "description": "₹6000/year direct benefit to farmers.",
+    "link": "https://pmkisan.gov.in"
+  }
+]

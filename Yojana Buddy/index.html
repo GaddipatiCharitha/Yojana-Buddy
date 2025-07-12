@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>YojanaBuddy</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🧾 YojanaBuddy</h1>
+    <p>Find out which government schemes you're eligible for</p>
+
+    <form id="quizForm">
+      <label>Are you below the poverty line (BPL)?</label>
+      <select name="bpl">
+        <option value="true">Yes</option>
+        <option value="false">No</option>
+      </select>
+
+      <label>Are you a woman?</label>
+      <select name="woman">
+        <option value="true">Yes</option>
+        <option value="false">No</option>
+      </select>
+
+      <label>Are you a farmer?</label>
+      <select name="farmer">
+        <option value="true">Yes</option>
+        <option value="false">No</option>
+      </select>
+
+      <label>Do you live in a rural area?</label>
+      <select name="rural">
+        <option value="true">Yes</option>
+        <option value="false">No</option>
+      </select>
+
+      <label>Do you have a disability?</label>
+      <select name="disabled">
+        <option value="true">Yes</option>
+        <option value="false">No</option>
+      </select>
+
+      <label>Your Age Group:</label>
+      <select name="age">
+        <option value="young">Below 18</option>
+        <option value="adult">18-59</option>
+        <option value="senior">60+</option>
+      </select>
+
+      <button type="submit">Check Eligibility</button>
+    </form>
+
+    <div id="results"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
