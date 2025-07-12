@@ -24,6 +24,7 @@ Farming background
 ⚡ Instant results with no sign-up required
 
 💻 Lightweight and fully browser-based
-<img width="1920" height="1080" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/9c86258d-52d1-44eb-9dcc-d54ca6bbb043" />
-<img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/ee5d6e86-3fac-46aa-bc6d-b4e9a66c4b8d" />
+<img width="1822" height="875" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/1323c8d5-d8e9-4f9b-8cde-1e054e24a940" />
+<img width="1747" height="852" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/555c72ac-a6ab-4d71-a318-28fc6ac9329c" />
+
 
